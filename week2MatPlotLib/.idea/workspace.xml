@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d76d47-7845-43ac-9403-4978229ecaf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/MatPlotLib.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week2DataStructuren/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sets/dataDifference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sets/dierenSett.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataStructuren.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataStructuren.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries/tellenCodons.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/tellenCodons.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +17,6 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/week2DataStructuren$dataDifference.coverage" NAME="dataDifference Coverage Results" MODIFIED="1543159142334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
-    <SUITE FILE_PATH="coverage/week3DataStructuren$googleDemo.coverage" NAME="googleDemo Coverage Results" MODIFIED="1543161880680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$tellenCodons.coverage" NAME="tellenCodons Coverage Results" MODIFIED="1543158582580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
     <SUITE FILE_PATH="coverage/DataStructuren$codon2aminoacid.coverage" NAME="codon2aminoacid Coverage Results" MODIFIED="1543157834835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$aminoacid2codon.coverage" NAME="aminoacid2codon Coverage Results" MODIFIED="1543158579236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -47,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/Dictionaries/aminoacid2codon.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -56,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/Dictionaries/tellenCodons.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -70,27 +65,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sets/dataDifference.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter/googleDemo.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -114,7 +95,6 @@
         <option value="$PROJECT_DIR$/Dictionaries/tellenCodons.py" />
         <option value="$PROJECT_DIR$/Sets/dierenSett.py" />
         <option value="$PROJECT_DIR$/Sets/dataDifference.py" />
-        <option value="$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py" />
       </list>
     </option>
   </component>
@@ -130,21 +110,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="week2DataStructuren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2DataStructuren" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week2DataStructuren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2DataStructuren" type="462c0819:PsiDirectoryNode" />
+              <item name="Sets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week1debugging" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/.." />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Dictionaries" />
     </key>
@@ -161,9 +153,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.googleDemo">
+  <component name="RunManager" selected="Python.dataDifference">
+    <configuration name="aminoacid2codon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructuren" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries/aminoacid2codon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="codon2aminoacid" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MatPlotLib" />
+      <module name="DataStructuren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -185,7 +199,7 @@
       <method v="2" />
     </configuration>
     <configuration name="dataDifference" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MatPlotLib" />
+      <module name="DataStructuren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -207,7 +221,7 @@
       <method v="2" />
     </configuration>
     <configuration name="dierenSett" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MatPlotLib" />
+      <module name="DataStructuren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -228,30 +242,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="googleDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MatPlotLib" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter/googleDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="tellenCodons" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MatPlotLib" />
+      <module name="DataStructuren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -272,27 +264,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="MatPlotLib" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.googleDemo" />
         <item itemvalue="Python.dataDifference" />
         <item itemvalue="Python.dierenSett" />
         <item itemvalue="Python.tellenCodons" />
+        <item itemvalue="Python.aminoacid2codon" />
         <item itemvalue="Python.codon2aminoacid" />
       </list>
     </recent_temporary>
@@ -309,13 +286,11 @@
       <updated>1543157571668</updated>
       <workItem from="1543157572935" duration="338000" />
       <workItem from="1543158008558" duration="1825000" />
-      <workItem from="1543160213197" duration="751000" />
-      <workItem from="1543161028671" duration="811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3725000" />
+    <option name="totallyTimeSpent" value="2163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,7 +304,7 @@
   <component name="ToolWindowManager">
     <frame x="47" y="27" width="1873" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25779969" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25232622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -356,7 +331,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dictionaries/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Dictionaries/dictionary.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -367,17 +341,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionaries/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dictionaries/aminoacid2codon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dictionaries/tellenCodons.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -388,25 +365,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week2MatPlotLib/Sets/dierenSett.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sets/dataDifference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter/googleDemo.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
