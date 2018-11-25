@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d76d47-7845-43ac-9403-4978229ecaf7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sets/dierenSett.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sets/dierenSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serialization/demoSerialization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sets/dierenSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sets/dierenSet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +14,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/week2DataStructuren$dataDifference.coverage" NAME="dataDifference Coverage Results" MODIFIED="1543159142334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$tellenCodons.coverage" NAME="tellenCodons Coverage Results" MODIFIED="1543158582580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
+    <SUITE FILE_PATH="coverage/week3DataStructuren$demoSerialization.coverage" NAME="demoSerialization Coverage Results" MODIFIED="1543174690120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Serialization" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$googleDemo.coverage" NAME="googleDemo Coverage Results" MODIFIED="1543161880680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter" />
     <SUITE FILE_PATH="coverage/DataStructuren$codon2aminoacid.coverage" NAME="codon2aminoacid Coverage Results" MODIFIED="1543157834835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$aminoacid2codon.coverage" NAME="aminoacid2codon Coverage Results" MODIFIED="1543158579236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -54,11 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sets/dierenSet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Serialization/demoSerialization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -108,6 +117,8 @@
         <option value="$PROJECT_DIR$/Sets/dierenSett.py" />
         <option value="$PROJECT_DIR$/Sets/dataDifference.py" />
         <option value="$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py" />
+        <option value="$PROJECT_DIR$/Sets/dierenSet.py" />
+        <option value="$PROJECT_DIR$/Serialization/demoSerialization.py" />
       </list>
     </option>
   </component>
@@ -133,7 +144,7 @@
             <path>
               <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
               <item name="week3DataStructuren" type="462c0819:PsiDirectoryNode" />
-              <item name="Sets" type="462c0819:PsiDirectoryNode" />
+              <item name="Serialization" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,29 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.googleDemo">
-    <configuration name="codon2aminoacid" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MatPlotLib" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries/codon2aminoacid.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.demoSerialization">
     <configuration name="dataDifference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MatPlotLib" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,6 +195,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets/dataDifference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demoSerialization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructuren" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Serialization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Serialization/demoSerialization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demoSerialization" />
         <item itemvalue="Python.googleDemo" />
         <item itemvalue="Python.dataDifference" />
         <item itemvalue="Python.dierenSett" />
         <item itemvalue="Python.tellenCodons" />
-        <item itemvalue="Python.codon2aminoacid" />
       </list>
     </recent_temporary>
   </component>
@@ -306,12 +317,20 @@
       <workItem from="1543161028671" duration="811000" />
       <workItem from="1543171866916" duration="741000" />
       <workItem from="1543172690366" duration="612000" />
-      <workItem from="1543173391959" duration="736000" />
+      <workItem from="1543173391959" duration="1769000" />
     </task>
+    <task id="LOCAL-00001" summary="Update from Windows">
+      <created>1543174212833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543174212833</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5814000" />
+    <option name="totallyTimeSpent" value="6847000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,7 +349,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,6 +369,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update from Windows" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update from Windows" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Dictionaries/__init__.py" />
@@ -397,8 +420,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sets/dierenSet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serialization/demoSerialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
