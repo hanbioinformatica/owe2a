@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d76d47-7845-43ac-9403-4978229ecaf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/MatPlotLib.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2MatPlotLib/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week2DataStructuren/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sets/dierenSett.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sets/dierenSet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +54,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets/dierenSett.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sets/dierenSet.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
@@ -80,7 +73,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py">
+        <entry file="file://$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uitwerkingBI1a-T.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -88,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter/googleDemo.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -130,27 +123,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week1debugging" type="462c0819:PsiDirectoryNode" />
+              <item name="week3DataStructuren" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week1debugging" type="462c0819:PsiDirectoryNode" />
-              <item name="uitwerkingBI1a-T" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week2MatPlotLib" type="462c0819:PsiDirectoryNode" />
+              <item name="week3DataStructuren" type="462c0819:PsiDirectoryNode" />
+              <item name="Sets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,7 +227,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets/dierenSett.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Martijn\Documents\PycharmProjects\owe2a\week3DataStructuren\Sets\dierenSet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,11 +305,13 @@
       <workItem from="1543160213197" duration="751000" />
       <workItem from="1543161028671" duration="811000" />
       <workItem from="1543171866916" duration="741000" />
+      <workItem from="1543172690366" duration="612000" />
+      <workItem from="1543173391959" duration="736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4466000" />
+    <option name="totallyTimeSpent" value="5814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,7 +325,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -387,13 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets/dierenSett.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sets/dataDifference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -401,7 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uiwerkingBI1a-T.py">
+    <entry file="file://$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uitwerkingBI1a-T.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -410,6 +394,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter/googleDemo.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sets/dierenSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
