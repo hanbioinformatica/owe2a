@@ -1,8 +1,9 @@
-aantal = {}
+d = {"K":0,"Y":0}
 seq = "KYRTWEEFTRAAEKLYQADPMKVRVVLKYRHCDG"
 for aa in seq:
     try:
-        aantal[aa] += + 1
+        d[aa] += 1
     except KeyError:
-        aantal[aa]=1
-print (aantal)
+        d[aa] = 1
+
+print(d)

@@ -1,6 +1,5 @@
 import pickle
 
-
 def main():
     naam = "studenten.dat"
     bepaalBi(naam)
