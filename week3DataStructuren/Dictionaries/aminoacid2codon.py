@@ -22,4 +22,4 @@ aa3 = {"Ala": ["GCU", "GCC", "GCA", "GCG"],
        "Stop": ["UAG", "UGA", "UAA"]
        }
 
-print(aa3["Leu"])
+print(aa3.keys())
