@@ -1,4 +1,4 @@
-d = {"K":0,"Y":0}
+d = {}
 seq = "KYRTWEEFTRAAEKLYQADPMKVRVVLKYRHCDG"
 for aa in seq:
     try:

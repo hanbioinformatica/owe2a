@@ -17,3 +17,4 @@ print(boerderij.difference(dierentuin))
 
 print("Difference dierentuin - boerderij")
 print(dierentuin.difference(boerderij))
+
