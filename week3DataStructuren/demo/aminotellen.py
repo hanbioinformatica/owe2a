@@ -1,4 +1,6 @@
-dict_aa = {"A":0,"Y":0}
+
+#http://www.ensembl.org/info/data/ftp/index.html
+dict_aa = {}
 seq = "GATGAGJHTYYYYHKTRBJNKRBJNLRBLRBGB"
 for aa in seq:
     # try:

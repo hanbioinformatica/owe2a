@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DataStructuren.iml" filepath="$PROJECT_DIR$/.idea/DataStructuren.iml" />
       <module fileurl="file://$PROJECT_DIR$/../week2MatPlotLib/.idea/MatPlotLib.iml" filepath="$PROJECT_DIR$/../week2MatPlotLib/.idea/MatPlotLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../week4RegularExpressions/.idea/RegularExpressions.iml" filepath="$PROJECT_DIR$/../week4RegularExpressions/.idea/RegularExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/../week1debugging/.idea/debuggingPEP8.iml" filepath="$PROJECT_DIR$/../week1debugging/.idea/debuggingPEP8.iml" />
     </modules>
   </component>

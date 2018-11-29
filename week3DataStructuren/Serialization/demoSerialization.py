@@ -5,7 +5,6 @@ def main():
     bepaalBi(naam)
 
 
-
 def bepaalBi(bestandsnaam):
     meer = 'j'
     try:
@@ -24,4 +23,3 @@ def bepaalBi(bestandsnaam):
     output_file.close()
 
 main()
-
