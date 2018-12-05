@@ -7,7 +7,7 @@ Aangepast 2 december 2018 MvdB (c) HAN University of Applied Science
 """
 
 def main ():
-    data = getData ("http://nu.nl")
+    data = getData ("http://han.nl")
     links = getLinks(data)
     print (links)
 

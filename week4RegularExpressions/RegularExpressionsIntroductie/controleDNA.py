@@ -1,9 +1,9 @@
 import re
 
-dna = "CGATNCGGAACGATC"
-m = re.search(r"[^ATGC]", dna)
+dna = "CGATXCGGAACYGATC"
+m = re.search(r"[^ATGC]", dna.upper())
 
 if m:
     print("Een foute nucleotide gevonden")
-    print("Nucleotide " + m.group())
-    print("Op positie " + m.start())
+    print("Nucleotide ", m.group())
+    print("Op positie ", m.start())
