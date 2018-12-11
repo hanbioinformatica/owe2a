@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d76d47-7845-43ac-9403-4978229ecaf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week5ObjectOrientatie/Auto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1cd/Auto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
@@ -10,6 +10,8 @@
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/zoekInFasta_versie2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/zoekInFasta_versie2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5ObjectOrientatie/Auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1ab/Auto.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +32,10 @@
     <SUITE FILE_PATH="coverage/week3DataStructuren$findAll.coverage" NAME="findAll Coverage Results" MODIFIED="1543405746568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$aminoacid2codon.coverage" NAME="aminoacid2codon Coverage Results" MODIFIED="1543306329414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$aminoacid2codon.coverage" NAME="aminoacid2codon Coverage Results" MODIFIED="1543158579236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week3DataStructuren$Auto__1_.coverage" NAME="Auto (1) Coverage Results" MODIFIED="1544543560378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1cd" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$getallenSet.coverage" NAME="getallenSet Coverage Results" MODIFIED="1543391569277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$tellenCodons.coverage" NAME="tellenCodons Coverage Results" MODIFIED="1543158582580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
+    <SUITE FILE_PATH="coverage/week3DataStructuren$Afvinkopdracht4.coverage" NAME="Afvinkopdracht4 Coverage Results" MODIFIED="1544537229660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionVink" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$subOne.coverage" NAME="subOne Coverage Results" MODIFIED="1543930917337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$dierenSetCopy.coverage" NAME="dierenSetCopy Coverage Results" MODIFIED="1543263845363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$dataDifference.coverage" NAME="dataDifference Coverage Results" MODIFIED="1543159142334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
@@ -43,7 +47,7 @@
     <SUITE FILE_PATH="coverage/week3DataStructuren$FindAll.coverage" NAME="FindAll Coverage Results" MODIFIED="1543401928712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week4RegularExpressions/RegaularExpressionsIntroductie" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$tellenCodons.coverage" NAME="tellenCodons Coverage Results" MODIFIED="1543325925278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$googleDemo.coverage" NAME="googleDemo Coverage Results" MODIFIED="1543161880680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter" />
-    <SUITE FILE_PATH="coverage/week3DataStructuren$Auto.coverage" NAME="Auto Coverage Results" MODIFIED="1544517657264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week5ObjectOrientatie" />
+    <SUITE FILE_PATH="coverage/week3DataStructuren$Auto.coverage" NAME="Auto Coverage Results" MODIFIED="1544534743319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week5ObjectOrientatie" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$searchMore.coverage" NAME="searchMore Coverage Results" MODIFIED="1543918538679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$demo.coverage" NAME="demo Coverage Results" MODIFIED="1543392021704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
   </component>
@@ -67,53 +71,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/extractingNames.py">
+        <entry file="file://$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1cd/Auto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../week5ObjectOrientatie/Auto.py">
+        <entry file="file://$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1ab/Auto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="57">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/controleDNAgroup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/findEmailAddressInWebPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Serialization/demoSerialization.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -163,7 +135,12 @@
         <option value="$PROJECT_DIR$/../untitled/app.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/abe0c78f-37bd-4a73-ab6c-cc146980b2ed/console.sql" />
         <option value="$PROJECT_DIR$/../week5ObjectOrientatie/StartOO.py" />
+        <option value="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/zoekInFasta_versie2.py" />
         <option value="$PROJECT_DIR$/../week5ObjectOrientatie/Auto.py" />
+        <option value="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionVink/Afvinkopdracht4.py" />
+        <option value="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1ab/AutoBIN1a1b.py" />
+        <option value="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1cd/Auto.py" />
+        <option value="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1ab/Auto.py" />
       </list>
     </option>
   </component>
@@ -187,6 +164,16 @@
               <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
               <item name="week5ObjectOrientatie" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5ObjectOrientatie" type="462c0819:PsiDirectoryNode" />
+              <item name="BIN-1ab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5ObjectOrientatie" type="462c0819:PsiDirectoryNode" />
+              <item name="BIN-1cd" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -203,14 +190,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Martijn\Documents\PycharmProjects\owe2a\week3DataStructuren\Sets" />
-      <recent name="$PROJECT_DIR$/.." />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1ab" />
       <recent name="C:\Users\Martijn\Documents\PycharmProjects\owe2a\week4RegularExpressions\RegularExpressionsIntroductie" />
       <recent name="C:\Users\Martijn\Documents\PycharmProjects\owe2a\week4RegularExpressions\RegaularExpressionsIntroductie" />
       <recent name="$PROJECT_DIR$/Dictionaries" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Martijn\Documents\PycharmProjects\owe2a\week3DataStructuren\Sets" />
+      <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,8 +213,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Auto">
-    <configuration name="Auto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Auto (1)">
+    <configuration name="Afvinkopdracht4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RegularExpressions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionVink" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionVink/Afvinkopdracht4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Auto (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="week5ObjectOrientatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1cd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1cd/Auto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Auto" type="PythonConfigurationType" factoryName="Python">
       <module name="week5ObjectOrientatie" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,7 +271,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week5ObjectOrientatie/Auto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1ab/Auto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,28 +302,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="searchMore" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="RegularExpressions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Martijn\Documents\PycharmProjects\owe2a\week4RegularExpressions\RegularExpressionsIntroductie\controleDNAgroup.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="subOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RegularExpressions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,14 +324,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Flask (../untitled/app.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+    <configuration name="Flask" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="target" value="$PROJECT_DIR$/../untitled/app.py" />
       <option name="targetType" value="PATH" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -331,11 +341,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Auto" />
-        <item itemvalue="Flask server.Flask (../untitled/app.py)" />
+        <item itemvalue="Python.Auto (1)" />
+        <item itemvalue="Python.Afvinkopdracht4" />
         <item itemvalue="Python.subOne" />
         <item itemvalue="Python.htmlParser" />
-        <item itemvalue="Python.searchMore" />
       </list>
     </recent_temporary>
   </component>
@@ -367,6 +376,9 @@
       <workItem from="1543928793820" duration="2940000" />
       <workItem from="1544299183645" duration="4774000" />
       <workItem from="1544514987841" duration="2638000" />
+      <workItem from="1544534389806" duration="8725000" />
+      <workItem from="1544555749857" duration="24000" />
+      <workItem from="1544556490490" duration="1445000" />
     </task>
     <task id="LOCAL-00001" summary="Update from Windows">
       <created>1543174212833</created>
@@ -456,7 +468,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47550000" />
+    <option name="totallyTimeSpent" value="57744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -470,13 +482,13 @@
   <component name="ToolWindowManager">
     <frame x="47" y="27" width="1873" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.12205802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.12534209" />
       <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.31308156" />
       <window_info id="Favorites" order="2" sideWeight="0.500813" side_tool="true" weight="0.31308156" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917898" weight="0.20347156" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917898" weight="0.17936355" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
@@ -537,69 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries/codon2aminoacid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sets/dierenSetCopy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="10" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uitwerkingBI1a-T.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter/googleDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries/tellenCodons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries/aminoacid2codon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sets/dierenSet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sets/verkorteSchrijfwijzeSets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sets/dataDifference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/demoNesting.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/sre_parse.py" />
     <entry file="file://$PROJECT_DIR$/demo/aminotellen.py">
@@ -616,27 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionaries/tellenAminozuren.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/findMailAddresses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/searchOne.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../untitled/app.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/abe0c78f-37bd-4a73-ab6c-cc146980b2ed/console.sql">
       <provider selected="true" editor-type-id="text-editor">
@@ -645,24 +573,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/subOne.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../week5ObjectOrientatie/StartOO.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/controleDNAgroup.py">
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/extractingNames.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/findEmailAddressInWebPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -673,7 +590,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Serialization/demoSerialization.py">
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionVink/genome_e.coli.fasta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/searchOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/subOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/zoekInFasta_versie2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/zoekInFasta.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/htmlParser.py">
@@ -686,8 +627,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week5ObjectOrientatie/StartOO.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/findMailAddresses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/findEmailAddressInWebPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/controleDNA.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -696,17 +648,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/extractingNames.py">
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie/controleDNAgroup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week5ObjectOrientatie/Auto.py">
+    <entry file="file://$PROJECT_DIR$/../week1debugging/uitwerkingBI1a-T/uitwerkingBI1a-T.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionaries/tellenAminozuren.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionaries/codon2aminoacid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionVink/Afvinkopdracht4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionaries/tellenCodons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serialization/demoSerialization.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sets/dataDifference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sets/verkorteSchrijfwijzeSets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sets/dierenSetCopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="10" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sets/dierenSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week2MatPlotLib/GoogleCounter/googleDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="2" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionaries/aminoacid2codon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/be21329a-478c-4520-a994-41fa8fd04723/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/be21329a-478c-4520-a994-41fa8fd04723/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1cd/Auto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1ab/Auto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
