@@ -8,55 +8,62 @@ Creatie d.d. 12 december 2018
 
 class Auto:
 
+    max_snelheid = 130
+    aantal = 0
+
+    """Constructor: wordt aangeroepen bij initialisatie
+    van het object"""
+    def __init__(self,v):
+        print("Creatie van Auto met snelheid {}".format(v))
+        self.setSnelheid(v)
+        Auto.aantal += 1
+        print ("Aantal gemaakte auto's "+str(Auto.aantal))
+
     def setSnelheid(self,v):
         if v > 130:
-            print ("Dat mag niet {}! "\
-                   .format(self.eigenaar))
-            self.snelheid = 130
+            print ("Dat mag niet!")
+            self.__snelheid = Auto.max_snelheid
         else:
-            self.snelheid = v
+            self.__snelheid = v
 
     def getSnelheid(self):
-        return self.snelheid
+        return self.__snelheid
 
     def setEigenaar(self,e):
-        self.eigenaar = e
+        self.__eigenaar = e
 
     def getEigenaar(self):
-        return self.eigenaar
+        return self.__eigenaar
 
     def info(self):
-        print ("Dit is de auto van {} met een snelheid: {}"\
-               .format(self.eigenaar,self.snelheid))
+        print ("Dit is de auto van {} met een snelheid: {}" \
+               .format(self.__eigenaar, self.__snelheid))
+
+    def __str__(self):
+        return "Dit is een auto van "+self.__eigenaar
 
 
 
 
 
-
-a1 = Auto()
-a2 = Auto()
-a3 = Auto()
-a4 = Auto()
-a5 = Auto()
+a1 = Auto(100)
+a2 = Auto(70)
+a3 = Auto(80)
+a4 = Auto(55)
+a5 = Auto(343)
 
 a1.setEigenaar("Steffen")
-a1.setSnelheid(70)
-
 a2.setEigenaar("Armin")
-a2.setSnelheid(100)
-
 a3.setEigenaar("Alexander")
-a3.setSnelheid(5)
-
 a4.setEigenaar("Stijn")
-a4.setSnelheid(3)
-
 a5.setEigenaar("Rutger")
-a5.setSnelheid(343)
 
 a1.info()
 a2.info()
 a3.info()
 a4.info()
 a5.info()
+
+
+
+
