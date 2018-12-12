@@ -3,6 +3,9 @@
 Voorbeeld van OO aan de hand van een Auto
 BIN-1c/Bin-1d
 Creatie d.d. 12 december 2018
+Aanpassingen d.d. 13 december 2018:
+* __str__ methode toegevoegd
+
 
 """
 
