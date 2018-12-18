@@ -9,6 +9,9 @@ class Dier:
     def __init__(self, naam):    # Constructor van de class
         self.__naam = naam
 
+    def getNaam(self):
+        return self.__naam
+
     def geluid(self):              # Methode moet per dier worden ingevuld
         pass                       # Dieren maken een geluid, maar het geluid kan
                                     # pas op subclass niveau worden ingevuld
@@ -22,10 +25,16 @@ class Hond(Dier):
     def geluid(self):
         return 'Woef!'
 
+class Vogelbekdier(Dier):
+    def geluid(self):
+        return "RRRrrrrr"
 
-dieren = [Kat('Gelaarsde'),
+dieren = [Kat('Dikkie Dik'),
           Hond('Goofy'),
-          Hond('Lassie')]
+          Hond('Lassie'),
+          Vogelbekdier('Perry'),
+          Kat('Tom')]
 
 for dier in dieren:
-    print (dier.__naam + ': ' + dier.geluid())
+    print (dier.getNaam() + ': ' + dier.geluid())
+

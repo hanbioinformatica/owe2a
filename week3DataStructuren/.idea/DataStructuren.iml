@@ -9,6 +9,7 @@
     <orderEntry type="module" module-name="RegularExpressions" />
     <orderEntry type="module" module-name="week5ObjectOrientatie" />
     <orderEntry type="module" module-name="week6recursie" />
+    <orderEntry type="module" module-name="week7GUI" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

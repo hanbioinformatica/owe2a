@@ -3,7 +3,6 @@
 Voorbeeld van OO aan de hand van een Auto
 BIN-1a/Bin-1b
 Creatie d.d. 12 december 2018
-
 """
 
 class Auto:
@@ -44,26 +43,26 @@ class Auto:
 
 
 
+class elektrischeAuto(Auto):
+
+    def opladen(self):
+        print ("Auto laden")
 
 
-a1 = Auto(100)
-a2 = Auto(70)
-a3 = Auto(80)
-a4 = Auto(55)
-a5 = Auto(343)
+class benzineAuto(Auto):
 
-a1.setEigenaar("Steffen")
-a2.setEigenaar("Armin")
-a3.setEigenaar("Alexander")
-a4.setEigenaar("Stijn")
-a5.setEigenaar("Rutger")
-
-a1.info()
-a2.info()
-a3.info()
-a4.info()
-a5.info()
+    def tanken(self):
+        print ("Benzine tanken")
 
 
+a1 = elektrischeAuto(90)
+a1.setEigenaar("Wouter")
 
+a2 = benzineAuto(110)
+a2.setEigenaar("Melissa")
+
+print (a1)
+print (a2)
+a1.opladen()
+a2.tanken()
 

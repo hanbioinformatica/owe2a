@@ -10,12 +10,19 @@ import timeit
 
 def main():
 
+    getal = 20
+    # print ("Iteratief bepalen")
+    # print (fibI(getal))
+    # print ("Recursief bepalen")
+    # print (fibR(getal))
+
+
     print ("Tijd in seconden iteratief")
-    tijd = timeit.timeit("fibI(10)",setup="from __main__ import fibI")
+    tijd = timeit.timeit("fibI({})".format(getal),setup="from __main__ import fibI")
     print (tijd)
 
     print ("Tijd in seconden recursief")
-    tijd = timeit.timeit("fibR(10)",setup="from __main__ import fibR")
+    tijd = timeit.timeit("fibR({})".format(getal),setup="from __main__ import fibR")
     print (tijd)
 
 
