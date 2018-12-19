@@ -5,7 +5,7 @@ class MyGUI:
     def __init__(self):
         self.main_window = tkinter.Tk()
         self.frame = tkinter.Frame(self.main_window)
-        self.my_button = tkinter.Button(self.main_window, text='klik!',\
+        self.my_button = tkinter.Button(self.main_window, text='klik!',
                                         command=self.doe_iets)
         self.my_button.pack()
 
@@ -16,11 +16,11 @@ class MyGUI:
         self.cb_var2.set(0)
         self.cb_var3.set(0)
 
-        self.cb1 = tkinter.Checkbutton(self.frame,\
+        self.cb1 = tkinter.Checkbutton(self.frame,
                                        text='Keuze 1', variable=self.cb_var1)
-        self.cb2 = tkinter.Checkbutton(self.frame,\
+        self.cb2 = tkinter.Checkbutton(self.frame,
                                        text='Keuze 2', variable=self.cb_var2)
-        self.cb3 = tkinter.Checkbutton(self.frame,\
+        self.cb3 = tkinter.Checkbutton(self.frame,
                                        text='Keuze 3', variable=self.cb_var3)
         self.cb1.pack()
         self.cb2.pack()
