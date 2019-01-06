@@ -10,7 +10,7 @@ import timeit
 
 def main():
 
-    getal = 20
+    getal = 10
     # print ("Iteratief bepalen")
     # print (fibI(getal))
     # print ("Recursief bepalen")

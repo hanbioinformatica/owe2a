@@ -1,6 +1,7 @@
 import tkinter
 from tkinter import messagebox
 
+
 class MyGUI:
     def __init__(self):
         self.main_window = tkinter.Tk()
@@ -40,6 +41,3 @@ class MyGUI:
 
 
 my_gui = MyGUI()
-
-
-
