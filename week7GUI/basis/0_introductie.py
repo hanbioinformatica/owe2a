@@ -1,3 +1,10 @@
+"""
+(c)HAN University/Martijn van der Bruggen
+Voorbeeld van GUI
+Een eerste aanzet tot het bouwen van een GUI
+Creatie d.d. 27 december 2018
+"""
+
 import tkinter
 
 class MyGUI:

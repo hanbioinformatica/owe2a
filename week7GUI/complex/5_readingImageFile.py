@@ -31,7 +31,7 @@ class MyGUI:
                                                                filetypes=(("Images", "*.gif"),
                                                                           ("All files", "*.*")))
         self.photo = PhotoImage(file=self.main_window.filename)
-        #self.label = Label(image=self.photo)
+        self.label = Label(image=self.photo)
         self.label.image = self.photo
         self.label.pack()
 

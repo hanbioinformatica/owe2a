@@ -23,7 +23,7 @@ class MyGUI:
         try:
             uitkomst = int(tekst)*7
         except ValueError:
-            tkinter.messagebox.showwarning('Errro', 'Je moet een getal invullen')
+            tkinter.messagebox.showwarning('Error', 'Je moet een getal invullen')
         tkinter.messagebox.showinfo('response','Zeven keer '+tekst+' is '+str(uitkomst))
 
 my_gui = MyGUI()

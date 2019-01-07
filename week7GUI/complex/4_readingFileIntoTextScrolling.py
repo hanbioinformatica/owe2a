@@ -1,12 +1,10 @@
 """
 (c)HAN University/Martijn van der Bruggen
 Voorbeeld van GUI
-Creatie d.d. 27 december 2018
-
+Creatie d.d. 7 januari 2019
 """
-from tkinter import filedialog, Scrollbar, END
+from tkinter import filedialog, RIGHT, Scrollbar, Y, END
 import tkinter
-
 
 class MyGUI:
     def __init__(self):
@@ -22,14 +20,11 @@ class MyGUI:
                                         command=self.open_bestand)
         self.my_button.pack()
 
-        self.lees_button = tkinter.Button(self.frame2, text='Lees bestand',
-                                        fg="yellow", bg="blue",
-                                        command=self.lees_bestand)
-        self.lees_button.pack()
-
-
-        self.text = tkinter.Text(self.frame1, height=20, width=60, bg="yellow")
+        self.scrollbar = Scrollbar(self.frame1)
+        self.scrollbar.pack(side=RIGHT, fill=Y)
+        self.text = tkinter.Text(self.frame1, height=20, width=60, bg="yellow", yscrollcommand = self.scrollbar.set)
         self.text.pack()
+        self.scrollbar.config(command=self.text.yview)
         tkinter.mainloop()
 
 
@@ -38,9 +33,6 @@ class MyGUI:
                                                                title="Select file",
                                                                filetypes=(("All files", "*.*"),
                                                                           ("Fasta files", "*.fasta")))
-
-
-    def lees_bestand(self):
         bestand = open (self.main_window.filename,"r")
         for regel in bestand:
             self.text.insert(END, regel)

@@ -1,3 +1,8 @@
+"""
+(c)HAN University/Martijn van der Bruggen
+Voorbeeld van GUI
+Creatie d.d. 27 december 2018
+"""
 import tkinter
 
 
