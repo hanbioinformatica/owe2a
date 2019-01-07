@@ -18,7 +18,10 @@ class MyGUI:
         # maak verschillende frames aan met eigen eigenschappen
         # frames zijn containers in je main_window
         self.top_frame = tkinter.Frame(self.main_window)
-        self.bottom_frame = tkinter.Frame(self.main_window)
+        self.bottom_frame = tkinter.Frame(self.main_window,
+                                          background="blue", # zet de achtergrondkleur van het frame
+                                          width=200,
+                                          height=200)
 
 
         # plaats een label (tekst)

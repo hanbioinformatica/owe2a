@@ -20,11 +20,13 @@ class MyGUI:
                                         command=self.open_bestand)
         self.my_button.pack()
 
-        self.scrollbar = Scrollbar(self.frame1)
-        self.scrollbar.pack(side=RIGHT, fill=Y)
-        self.text = tkinter.Text(self.frame1, height=20, width=60, bg="yellow", yscrollcommand = self.scrollbar.set)
+        self.scrollbar = Scrollbar(self.frame1) # (1) initialisatie van een scrollbar en koppeling aan frame
+        self.scrollbar.pack(side=RIGHT, fill=Y) # (2) pack de scrollbar
+        self.text = tkinter.Text(self.frame1, height=20, width=60,
+                                 bg="yellow",
+                                 yscrollcommand = self.scrollbar.set) # (3) koppel scrollbar aan textarea
         self.text.pack()
-        self.scrollbar.config(command=self.text.yview)
+        self.scrollbar.config(command=self.text.yview) # (4) configureer scrollbar gedrag
         tkinter.mainloop()
 
 
@@ -35,7 +37,7 @@ class MyGUI:
                                                                           ("Fasta files", "*.fasta")))
         bestand = open (self.main_window.filename,"r")
         for regel in bestand:
-            self.text.insert(END, regel)
+            self.text.insert(END, regel)  # insert in de textarea op de eindpositie
         bestand.close()
 
 
