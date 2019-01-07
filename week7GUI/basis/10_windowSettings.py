@@ -19,9 +19,9 @@ class MyGUI:
         # frames zijn containers in je main_window
         self.top_frame = tkinter.Frame(self.main_window)
         self.bottom_frame = tkinter.Frame(self.main_window,
-                                          background="blue", # zet de achtergrondkleur van het frame
-                                          width=200,
-                                          height=200)
+                                          background="#c0001c", # zet de achtergrondkleur van het frame
+                                          width=200,            # in dit geval een hexadecimale codering
+                                          height=200)           # kan ook met de naam van een kleur (zie hier onder)
 
 
         # plaats een label (tekst)
