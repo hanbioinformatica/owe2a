@@ -1,5 +1,13 @@
-from tkinter import filedialog
+"""
+(c)HAN University/Martijn van der Bruggen
+Voorbeeld van GUI
+Creatie d.d. 27 december 2018
+
+"""
+
+from tkinter import filedialog, Scrollbar
 import tkinter
+
 
 class MyGUI:
     def __init__(self):
@@ -8,8 +16,6 @@ class MyGUI:
         self.my_button = tkinter.Button(self.main_window, text='klik!',
                                         command=self.open_bestand)
         self.my_button.pack()
-        self.invoer = tkinter.Entry (self.main_window,width=10)
-        self.invoer.pack()
         self.frame.pack()
         tkinter.mainloop()
 
