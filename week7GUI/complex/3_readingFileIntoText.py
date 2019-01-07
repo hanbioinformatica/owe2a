@@ -4,37 +4,47 @@ Voorbeeld van GUI
 Creatie d.d. 27 december 2018
 
 """
-from tkinter import filedialog, Scrollbar
+from tkinter import filedialog, Scrollbar, END
 import tkinter
 
 
 class MyGUI:
     def __init__(self):
         self.main_window = tkinter.Tk()
-        self.frame = tkinter.Frame(self.main_window)
-        self.my_button = tkinter.Button(self.main_window, text='klik!',
+        self.frame1 = tkinter.Frame(self.main_window)
+        self.frame1.pack()
+        self.frame2 = tkinter.Frame(self.main_window)
+        self.frame2.configure(bg="red")
+        self.frame2.pack()
+
+        self.my_button = tkinter.Button(self.frame2, text='Open bestand',
+                                        fg = "blue", bg = "green",
                                         command=self.open_bestand)
         self.my_button.pack()
-        self.frame.pack()
-        self.text = tkinter.Text(height=20,width=60)
-        scroll = Scrollbar(self.text, command=self.text.yview)
-        self.text.configure(yscrollcommand=scroll.set)
-        self.text.tag_configure('bold_italics', font=('Arial', 12, 'bold', 'italic'))
-        self.text.tag_configure('big', font=('Verdana', 20, 'bold'))
-        self.text.tag_configure('color', foreground='#476042', background="yellow",
-                            font=('Tempus Sans ITC', 12, 'bold'))
-        self.text.configure(background="yellow")
+
+        self.lees_button = tkinter.Button(self.frame2, text='Lees bestand',
+                                        fg="yellow", bg="blue",
+                                        command=self.lees_bestand)
+        self.lees_button.pack()
+
+
+        self.text = tkinter.Text(self.frame1, height=20, width=60, bg="yellow")
         self.text.pack()
         tkinter.mainloop()
 
-    def open_bestand(self):
 
-        self.main_window.filename = filedialog.askopenfilename(initialdir="/",
+    def open_bestand(self):
+        self.main_window.filename = filedialog.askopenfilename(initialdir="~",
                                                                title="Select file",
                                                                filetypes=(("All files", "*.*"),
                                                                           ("Fasta files", "*.fasta")))
 
 
+    def lees_bestand(self):
+        bestand = open (self.main_window.filename,"r")
+        for regel in bestand:
+            self.text.insert(END, regel)
+        bestand.close()
 
 
 my_gui = MyGUI()
