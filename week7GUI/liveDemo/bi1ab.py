@@ -13,10 +13,6 @@ class MyGUI:
         self.main_window = tkinter.Tk()
         self.main_window.geometry ("500x500") # bepaal grootte van window
         self.main_window.title ("GUI App voor Bi1a en Bi1b")
-        self.bg = "white"
-
-
-
 
         self.bovenste_frame = tkinter.Frame(self.main_window,
                                             background="darkgray",  # zet de achtergrondkleur van het frame
