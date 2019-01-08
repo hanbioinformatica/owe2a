@@ -16,14 +16,14 @@ class MyGUI:
         self.frame2.pack()
 
         self.my_button = tkinter.Button(self.frame2, text='Open bestand',
-                                        fg = "blue", bg = "green",
+                                        fg = "#c0c0c0", bg = "green",
                                         command=self.open_bestand)
         self.my_button.pack()
 
         self.scrollbar = Scrollbar(self.frame1) # (1) initialisatie van een scrollbar en koppeling aan frame
         self.scrollbar.pack(side=RIGHT, fill=Y) # (2) pack de scrollbar
         self.text = tkinter.Text(self.frame1, height=20, width=60,
-                                 bg="yellow",
+                                 bg="white",
                                  yscrollcommand = self.scrollbar.set) # (3) koppel scrollbar aan textarea
         self.text.pack()
         self.scrollbar.config(command=self.text.yview) # (4) configureer scrollbar gedrag
