@@ -1,3 +1,0 @@
-from easygui import *
-egdemo()
-
