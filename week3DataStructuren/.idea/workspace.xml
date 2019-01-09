@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d76d47-7845-43ac-9403-4978229ecaf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week7GUI/complex/777_snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7GUI/liveDemo/bi1cd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7GUI/basis/4_buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week7GUI/basis/4_buttons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7GUI/liveDemo/bi1ab.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week7GUI/liveDemo/bi1ab.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +22,7 @@
     <SUITE FILE_PATH="coverage/week3DataStructuren$backwards.coverage" NAME="backwards Coverage Results" MODIFIED="1545082681089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week6recursie/recursie" />
     <SUITE FILE_PATH="coverage/DataStructuren$codon2aminoacid.coverage" NAME="codon2aminoacid Coverage Results" MODIFIED="1543157834835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$aminoacid2codon.coverage" NAME="aminoacid2codon Coverage Results" MODIFIED="1543158579236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/week3DataStructuren$bi1ab__1_.coverage" NAME="bi1ab (1) Coverage Results" MODIFIED="1546941427451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/liveDemo" />
+    <SUITE FILE_PATH="coverage/week3DataStructuren$bi1ab__1_.coverage" NAME="bi1ab (1) Coverage Results" MODIFIED="1547025529208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/liveDemo" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$7_calculator.coverage" NAME="7_calculator Coverage Results" MODIFIED="1545216167732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/complex" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$4_readingImageFile.coverage" NAME="4_readingImageFile Coverage Results" MODIFIED="1546890688881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/complex" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$Product.coverage" NAME="Product Coverage Results" MODIFIED="1545144392362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1cd" />
@@ -43,7 +43,7 @@
     <SUITE FILE_PATH="coverage/week3DataStructuren$tellenCodons.coverage" NAME="tellenCodons Coverage Results" MODIFIED="1543325925278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$8_checkbox.coverage" NAME="8_checkbox Coverage Results" MODIFIED="1546936452396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/basis" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$bi1cd.coverage" NAME="bi1cd Coverage Results" MODIFIED="1546962565539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/liveDemo" />
-    <SUITE FILE_PATH="coverage/week3DataStructuren$9_combobox.coverage" NAME="9_combobox Coverage Results" MODIFIED="1546936488573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/basis" />
+    <SUITE FILE_PATH="coverage/week3DataStructuren$9_combobox.coverage" NAME="9_combobox Coverage Results" MODIFIED="1547025317291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/basis" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$dierenSet.coverage" NAME="dierenSet Coverage Results" MODIFIED="1543391223877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$demoNesting.coverage" NAME="demoNesting Coverage Results" MODIFIED="1543394601563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$Flask_____untitled_app_py_.coverage" NAME="Flask (../untitled/app.py) Coverage Results" MODIFIED="1544299472380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
@@ -58,11 +58,12 @@
     <SUITE FILE_PATH="coverage/week3DataStructuren$Auto__1_.coverage" NAME="Auto (1) Coverage Results" MODIFIED="1544617122408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week5ObjectOrientatie/BIN-1cd" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$10_complexDemo.coverage" NAME="10_complexDemo Coverage Results" MODIFIED="1546885782696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/complex" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$tellenCodons.coverage" NAME="tellenCodons Coverage Results" MODIFIED="1543158582580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
-    <SUITE FILE_PATH="coverage/week3DataStructuren$7_radiogroup.coverage" NAME="7_radiogroup Coverage Results" MODIFIED="1546936413271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/basis" />
+    <SUITE FILE_PATH="coverage/week3DataStructuren$7_radiogroup.coverage" NAME="7_radiogroup Coverage Results" MODIFIED="1546976085006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/basis" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$Afvinkopdracht4.coverage" NAME="Afvinkopdracht4 Coverage Results" MODIFIED="1544537229660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionVink" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$1_openingFile.coverage" NAME="1_openingFile Coverage Results" MODIFIED="1546886633830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/complex" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$5_entry.coverage" NAME="5_entry Coverage Results" MODIFIED="1545223416051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/basis" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$7_numberGuessing.coverage" NAME="7_numberGuessing Coverage Results" MODIFIED="1546891447366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/complex" />
+    <SUITE FILE_PATH="coverage/week3DataStructuren$5_readingImageFile.coverage" NAME="5_readingImageFile Coverage Results" MODIFIED="1547025386551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week7GUI/complex" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$dataDifference.coverage" NAME="dataDifference Coverage Results" MODIFIED="1543328147596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
     <SUITE FILE_PATH="coverage/week3DataStructuren$findEmailAddressInWebPage.coverage" NAME="findEmailAddressInWebPage Coverage Results" MODIFIED="1543859786413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week4RegularExpressions/RegularExpressionsIntroductie" />
     <SUITE FILE_PATH="coverage/week2DataStructuren$dierenSett.coverage" NAME="dierenSett Coverage Results" MODIFIED="1543158686751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
@@ -96,14 +97,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../week7GUI/liveDemo/bi1cd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+            <state relative-caret-position="418">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../week7GUI/complex/2_textWidget.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../week7GUI/complex/3_readingFileIntoText.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
               <folding>
-                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#99#145#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../week7GUI/basis/3_parameters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../week7GUI/basis/4_buttons.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../week7GUI/basis/7_radiogroup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../week7GUI/liveDemo/bi1ab.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="e#97#117#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../week7GUI/basis/9_combobox.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../week7GUI/complex/5_readingImageFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -111,8 +187,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/lib/python3.7/tkinter/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2166">
-              <caret line="123" column="23" lean-forward="true" selection-start-line="123" selection-start-column="23" selection-end-line="123" selection-end-column="23" />
+            <state relative-caret-position="2280">
+              <caret line="123" column="23" selection-start-line="123" selection-start-column="23" selection-end-line="123" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -172,7 +248,6 @@
         <option value="$PROJECT_DIR$/../week7GUI/basis/1_HelloWorld.py" />
         <option value="$PROJECT_DIR$/../week7GUI/basis/2_TextAndLabel.py" />
         <option value="$PROJECT_DIR$/../week7GUI/basis/3_parameters.py" />
-        <option value="$PROJECT_DIR$/../week7GUI/basis/4_buttons.py" />
         <option value="$PROJECT_DIR$/../week7GUI/basis/6_labelOutput.py" />
         <option value="$PROJECT_DIR$/../week7GUI/basis/7_radiogroup.py" />
         <option value="$PROJECT_DIR$/../week7GUI/basis/8_checkbox.py" />
@@ -181,9 +256,10 @@
         <option value="$PROJECT_DIR$/../week7GUI/basis/10_windowSettings.py" />
         <option value="$PROJECT_DIR$/../week7GUI/experimental/bi1ab.py" />
         <option value="$PROJECT_DIR$/../week7GUI/complex/4_readingFileIntoTextScrolling.py" />
-        <option value="$PROJECT_DIR$/../week7GUI/liveDemo/bi1ab.py" />
         <option value="$PROJECT_DIR$/../week7GUI/complex/777_snake.py" />
         <option value="$PROJECT_DIR$/../week7GUI/liveDemo/bi1cd.py" />
+        <option value="$PROJECT_DIR$/../week7GUI/basis/4_buttons.py" />
+        <option value="$PROJECT_DIR$/../week7GUI/liveDemo/bi1ab.py" />
       </list>
     </option>
   </component>
@@ -205,6 +281,16 @@
             <path>
               <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
               <item name="week7GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week7GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="basis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week7GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="complex" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="week3DataStructuren" type="b2602c69:ProjectViewProjectNode" />
@@ -252,8 +338,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bi1cd">
-    <configuration name="4_readingFileIntoTextScrolling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bi1ab (1)">
+    <configuration name="5_readingImageFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="week7GUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,7 +352,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week7GUI/complex/4_readingFileIntoTextScrolling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week7GUI/complex/5_readingImageFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +361,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="777_snake" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_radiogroup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="week7GUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,12 +369,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week7GUI/complex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week7GUI/basis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week7GUI/complex/777_snake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week7GUI/basis/7_radiogroup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,11 +473,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bi1cd" />
         <item itemvalue="Python.bi1ab (1)" />
-        <item itemvalue="Python.777_snake" />
-        <item itemvalue="Python.4_readingFileIntoTextScrolling" />
+        <item itemvalue="Python.5_readingImageFile" />
         <item itemvalue="Python.9_combobox" />
+        <item itemvalue="Python.7_radiogroup" />
+        <item itemvalue="Python.bi1cd" />
       </list>
     </recent_temporary>
   </component>
@@ -440,6 +526,8 @@
       <workItem from="1546938943267" duration="2968000" />
       <workItem from="1546942266587" duration="229000" />
       <workItem from="1546958781064" duration="4037000" />
+      <workItem from="1546975776980" duration="905000" />
+      <workItem from="1547019758561" duration="5555000" />
     </task>
     <task id="LOCAL-00001" summary="Update from Windows">
       <created>1543174212833</created>
@@ -543,7 +631,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123362000" />
+    <option name="totallyTimeSpent" value="129822000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -556,13 +644,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="27" width="1873" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.21455939" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.20306513" />
       <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.31308156" />
       <window_info id="Favorites" order="2" sideWeight="0.500813" side_tool="true" weight="0.31308156" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917898" weight="0.18647765" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49917898" visible="true" weight="0.18647765" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39694658" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -581,18 +670,18 @@
       <window_info anchor="right" id="Database" order="4" weight="0.12348993" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.09865772" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499187" weight="0.15515961" />
       <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.31308156" />
       <window_info id="Favorites" order="2" sideWeight="0.500813" side_tool="true" weight="0.31308156" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917898" visible="true" weight="0.20113315" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39803708" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49917898" visible="true" weight="0.2320217" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39694658" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293348" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50027364" side_tool="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49972633" weight="0.3293348" />
@@ -774,39 +863,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week7GUI/complex/5_readingImageFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#99#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week7GUI/complex/2_textWidget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../week7GUI/complex/7_numberGuessing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week7GUI/complex/3_readingFileIntoText.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="39" column="101" lean-forward="true" selection-start-line="38" selection-start-column="63" selection-end-line="39" selection-end-column="101" />
-          <folding>
-            <element signature="e#99#145#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -842,28 +904,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week7GUI/basis/3_parameters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week7GUI/basis/4_buttons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../week7GUI/experimental/demoEen.py" />
-    <entry file="file://$PROJECT_DIR$/../week7GUI/liveDemo/bi1ab.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../week7GUI/basis/10_windowSettings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -875,13 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../week7GUI/basis/7_radiogroup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -909,13 +943,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week7GUI/basis/9_combobox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../week7GUI/complex/777_snake.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -923,19 +950,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../week7GUI/complex/2_textWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week7GUI/complex/3_readingFileIntoText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="e#99#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week7GUI/basis/3_parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week7GUI/basis/4_buttons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///usr/lib/python3.7/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2166">
-          <caret line="123" column="23" lean-forward="true" selection-start-line="123" selection-start-column="23" selection-end-line="123" selection-end-column="23" />
+        <state relative-caret-position="2280">
+          <caret line="123" column="23" selection-start-line="123" selection-start-column="23" selection-end-line="123" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week7GUI/basis/7_radiogroup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../week7GUI/liveDemo/bi1cd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        <state relative-caret-position="418">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week7GUI/basis/9_combobox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week7GUI/complex/5_readingImageFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week7GUI/liveDemo/bi1ab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
           <folding>
-            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#97#117#0" expanded="true" />
           </folding>
         </state>
       </provider>
