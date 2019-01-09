@@ -8,6 +8,7 @@ from tkinter import filedialog, Scrollbar, END, PhotoImage, Label
 import tkinter
 
 
+
 class MyGUI:
     def __init__(self):
         self.main_window = tkinter.Tk()
