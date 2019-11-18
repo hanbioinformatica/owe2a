@@ -21,30 +21,31 @@ UPDATED:     November 2018, structured conform PEP8
 """
 
 # Import the http library
-import http.client
+import urllib
 from pylab import *
-
+from urllib.request import Request
 
 def main():
-    labels = ['"Donald Trump"', '"Barack Obama"', '"Theresa May"']
+    labels = ['Frans', 'Python', 'Duits']
     waardes = getList(labels)
     tekenGrafiek(labels, waardes)
 
 
-def getCount(google_term):
+def getCount(term):
     # Define server, path and term to search
-    google_server = "www.google.com"
-    google_path = "/search?hl=en&q="
-    begin = "about ".lower()
-    eind = "results</div>".lower()
+    begin = "<h2 class=\"figure\">".lower()
+    eind = "vacatures gevonden".lower()
     hits = ""
-
     # Start Connection and get response
-    conn = http.client.HTTPConnection(google_server)
-    conn.request("GET", google_path + google_term)
-    r1 = conn.getresponse()
-    # Start reading and analyzing HTML
-    data1 = str(r1.read().lower())
+    url ="https://www.monsterboard.nl/vacatures/zoeken/?q=" + term
+    print (url)
+    req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    fp = urllib.request.urlopen(req)
+    mybytes = fp.read()
+    mystr = mybytes.decode("utf8")
+    fp.close()
+    # # Start reading and analyzing HTML
+    data1 = str(mystr.lower())
     pos1 = data1.index(begin)
     pos2 = data1.index(eind)
     tekst = data1[pos1 + len(begin):pos2]
@@ -52,7 +53,6 @@ def getCount(google_term):
         if c in "0123456789":
             hits += c
     getal = int(hits)
-    conn.close()
     return getal
 
 
@@ -70,11 +70,11 @@ def getList(zoekwoordenlijst):
 
 def tekenGrafiek(labels, data):
     xlocations = range(len(data))  # List met x-as data
-    breedte = 0.1  # Breedte van de lijn
+    breedte = 0.15  # Breedte van de lijn
     bar(xlocations, data, width=breedte)  # Tekenen van de grafiek
     xticks(xlocations, labels)
     xlim(0, xlocations[-1] + breedte * 2)
-    title("HAN Google Counter")
+    title("HAN Job Counter")
     gca().get_xaxis().tick_bottom()
     gca().get_yaxis().tick_left()
     show()  # Toon de grafiek
